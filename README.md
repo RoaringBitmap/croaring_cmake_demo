@@ -1,4 +1,5 @@
 # Simple demo of CRoaring as a CMake dependency.
+[![Build Status](https://cloud.drone.io/api/badges/RoaringBitmap/croaring_cmake_demo/status.svg)](https://cloud.drone.io/RoaringBitmap/croaring_cmake_demo)
 
 This repository is meant to serve as an example of how to use [CRoaring](https://github.com/RoaringBitmap/CRoaring) as a `CMake` dependency by having CRoaring as a git submodule. 
 
