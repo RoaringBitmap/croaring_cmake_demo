@@ -37,3 +37,6 @@ Using submodules, you can control exactly which version your colleagues are usin
 
 Then you can just follow our example.
 
+## FetchContent
+
+There is even a simpler example using FetchContent. [A single CMakeLists.txt file suffices](https://github.com/RoaringBitmap/croaring_cmake_demo_single_file).
